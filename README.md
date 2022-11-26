@@ -5,18 +5,19 @@ x86 projects don't index very well when included in the template. It is quite po
 
 These files, if they are not zipped up, nmeed zipping up and placing in the:
 
-* C:\Users\[usernanme]\[OneDrive]\Documents\Visual Studio 2022\Templates\Project Templates\Visual C++ Project  
+* **C:\Users\[usernanme]\[OneDrive]\Documents\Visual Studio 2022\Templates\Project Templates\Visual C++ Project**  
 
 or wherever you place your custom templates.
 
 It includes, within each created project an application entry function: 
-- [safeprojectname].cpp  
+- **[safeprojectname].cpp  **  
 a standard header module
-- Headers\[safeprojectname]_Headers.ixx
+- **Headers\[safeprojectname]_Headers.ixx  **  
 an example module for first compilation
-- Hello\Hello.ixx
+- **Hello\Hello.ixx  **  
 
 I will endeavour to keep this project template up to date, but don't promise speedy or reliable service... 
 
+###Note:  
 Use this at your own risk!  
 I make absolutely no guarantee of usability, correctness or even if it will work...
