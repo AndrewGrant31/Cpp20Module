@@ -10,11 +10,11 @@ These files, if they are not zipped up, nmeed zipping up and placing in the:
 or wherever you place your custom templates.
 
 It includes, within each created project an application entry function: 
-** [safeprojectname].cpp  
+- [safeprojectname].cpp  
 a standard header module
-** Headers\[safeprojectname]_Headers.ixx
+- Headers\[safeprojectname]_Headers.ixx
 an example module for first compilation
-** Hello\Hello.ixx
+- Hello\Hello.ixx
 
 I will endeavour to keep this project template up to date, but don't promise speedy or reliable service... 
 
