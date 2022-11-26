@@ -9,15 +9,16 @@ These files, if they are not zipped up, nmeed zipping up and placing in the:
 
 or wherever you place your custom templates.
 
-It includes, within each created project an application entry function: 
-- **[safeprojectname].cpp  **  
-a standard header module
-- **Headers\[safeprojectname]_Headers.ixx  **  
-an example module for first compilation
-- **Hello\Hello.ixx  **  
+It includes, within each created project an:
+***application entry function,*** 
+- ***[safeprojectname].cpp  ***  
+***a standard header module; this is like a precompiled header file. [like being operative word]***
+- ***Headers\[safeprojectname]_Headers.ixx***  
+***a module you can use to ensure first linking and compilation.***
+- ***Hello\Hello.ixx***  
 
 I will endeavour to keep this project template up to date, but don't promise speedy or reliable service... 
 
-###Note:  
+### Note:  
 Use this at your own risk!  
 I make absolutely no guarantee of usability, correctness or even if it will work...
