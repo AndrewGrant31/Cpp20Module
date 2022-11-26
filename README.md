@@ -1,2 +1,22 @@
 # Cpp20Module
-Standard C++ 20 template, which utilises C++20 modules, for Visual Studio 2022 (v 17.4) 
+Standard C++ 20 template, which utilises C++20 modules, for Visual Studio 2022 (v 17.4)  
+The project is set for x64 only.  
+x86 projects don't index very well when included in the template. It is quite possible to create a template for x86, just use the same files as in this project but set the project for x86.
+
+These files, if they are not zipped up, nmeed zipping up and placing in the:
+
+* C:\Users\[usernanme]\[OneDrive]\Documents\Visual Studio 2022\Templates\Project Templates\Visual C++ Project  
+
+or wherever you place your custom templates.
+
+It includes, within each created project an application entry function: 
+** [safeprojectname].cpp  
+a standard header module
+** Headers\[safeprojectname]_Headers.ixx
+an example module for first compilation
+** Hello\Hello.ixx
+
+I will endeavour to keep this project template up to date, but don't promise speedy or reliable service... 
+
+Use this at your own risk!  
+I make absolutely no guarantee of usability, correctness or even if it will work...
