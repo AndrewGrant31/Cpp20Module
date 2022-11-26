@@ -20,8 +20,9 @@ It includes, within each created project an:
 ***a module you can use to ensure first linking and compilation.***  
 - ***Hello\Hello.ixx***   
 
-I will endeavour to keep this project template up to date, but don't promise speedy or reliable service... 
 
-### Note:  
-Use this at your own risk!  
+### Note: 
+I will endeavour to keep this project template up to date, but don't promise anything remotely like a speedy or reliable service...   
+
+Use this at your own risk!   
 I make absolutely no guarantee of usability, correctness or even if it will work...
