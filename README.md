@@ -5,9 +5,9 @@ x86 projects don't index very well when included in the template. It is quite po
 
 These files, if they are not zipped up, need zipping up and placing in the:
 
-* **C:\Users\[usernanme]\[OneDrive]\Documents\Visual Studio 2022\Templates\Project Templates\Visual C++ Project**  
+* **C:\Users\[username]\[OneDrive]\Documents\Visual Studio 2022\Templates\Project Templates\Visual C++ Project**  
 
-or wherever you place your custom templates.
+folder or wherever you place your custom templates.
 
 It includes, within each created project an:    
 
