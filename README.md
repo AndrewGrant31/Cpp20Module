@@ -11,13 +11,13 @@ or wherever you place your custom templates.
 
 It includes, within each created project an:    
 
-***application entry function,***   
+**application entry function,**   
 - ***[safeprojectname].cpp***  
 
-***a standard header module; this is like a precompiled header file. [like being operative word]***  
+**a standard header module; this is like a precompiled header file. [like being operative word]**  
 - ***Headers\\[safeprojectname]_Headers.ixx***  
 
-***a module you can use to ensure first linking and compilation.***  
+**a module you can use to ensure first linking and compilation.**  
 - ***Hello\Hello.ixx***   
 
 
