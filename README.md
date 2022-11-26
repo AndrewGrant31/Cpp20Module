@@ -9,7 +9,8 @@ These files, if they are not zipped up, need zipping up and placing in the:
 
 or wherever you place your custom templates.
 
-It includes, within each created project an:
+It includes, within each created project an:    
+
 ***application entry function,***   
 - ***[safeprojectname].cpp***  
 
