@@ -15,7 +15,7 @@ It includes, within each created project an:
 - ***[safeprojectname].cpp***  
 
 ***a standard header module; this is like a precompiled header file. [like being operative word]***  
-- ***Headers\[safeprojectname]_Headers.ixx***  
+- ***Headers\\[safeprojectname]_Headers.ixx***  
 
 ***a module you can use to ensure first linking and compilation.***  
 - ***Hello\Hello.ixx***   
