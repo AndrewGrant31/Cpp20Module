@@ -7,7 +7,7 @@ export module $safeprojectname$_Headers;
 // Export import standard headers in this section.
 // The applicable headers still need including in the relevant modules
 // but placing them here ensures a smoother and less troublesome
-// linking and compilation.
+// compilation and linking.
 // This module should be the first module created, with at least 
 // an export import <iostream>; 
 // NOTE:
